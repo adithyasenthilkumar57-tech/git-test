@@ -1,2 +1,2 @@
 hello,i am adithya.
-git
+github
